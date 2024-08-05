@@ -1,5 +1,5 @@
 # Dog-Grooming
-Dog Grooming
+## Dog Grooming
 
 I am at the opening stages of creating a React site for a friend who is starting her own dog grooming business.
 
