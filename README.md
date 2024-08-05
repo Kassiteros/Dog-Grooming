@@ -3,8 +3,8 @@
 
 I am at the opening stages of creating a React site for a friend who is starting her own dog grooming business.
 
-I plan to upload from a local repository to GitHub and then deploy in Netlify so I can allow my friedn to view
-the site as it develops and we can test and model ideas when we schedule remote meetings.
+I plan to upload from a local repository to GitHub and then deploy in Netlify so I can allow my friend to view
+the site as it develops and we can test and model ideas whenever we can schedule remote meetings.
 
 My initial throughts are to include a button to refresh a feed from https://dogapi.dog/api/v2/facts just so users
 are immediately attracted to interact with the page. I also plan to have a contact / subscription form which 
