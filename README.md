@@ -14,4 +14,4 @@ email address she chooses.
 
 I also plan to use React Router to create a single-page application (SPA) !
 
-That's the intention... now I need to make it happen ;-)
+That's the intention... now, I need to make it happen ;-)
